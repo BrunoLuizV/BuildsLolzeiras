@@ -1,7 +1,4 @@
-define( [
-	"../var/document",
-	"../core"
-], function( document, jQuery ) {
+define( [ "../var/document" ], function( document ) {
 
 "use strict";
 

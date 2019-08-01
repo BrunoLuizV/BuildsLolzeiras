@@ -1,7 +1,12 @@
-body {
-    background-color: aqua;
+#imagembuscar {
+    text-align: center;
 }
 
-#imagembusca{
-   text-align: center;
+body {
+    background-color: blue;
+}
+
+form {
+    text-align: center;
+    
 }
